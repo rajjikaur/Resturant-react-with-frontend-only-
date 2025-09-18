@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "title": "Lassi",
+    "desc": "Healthy and delicious snack option.",
+    "price": "216",
+    "image": "carousel1.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 2,
+    "title": "Choco Shake",
+    "desc": "Healthy and delicious snack option.",
+    "price": "248",
+    "image": "carousel2.jpg",
+    "category": "shakes"
+  },
+  {
+    "id": 3,
+    "title": "Masala Fries",
+    "desc": "Tart and sweet explosion of flavor.",
+    "price": "119",
+    "image": "carousel3.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 4,
+    "title": "Lassi",
+    "desc": "Grilled to perfection with a smoky aroma.",
+    "price": "208",
+    "image": "carousel4.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 5,
+    "title": "Strawberry Shake",
+    "desc": "A creamy delight topped with fresh fruit.",
+    "price": "147",
+    "image": "carousel7.jpg",
+    "category": "beverages"
+  },
+  {
+    "id": 6,
+    "title": "Fruit Bowl",
+    "desc": "Cool and strong, just how you like it.",
+    "price": "164",
+    "image": "carousel5.jpg",
+    "category": "beverages"
+  },
+  {
+    "id": 7,
+    "title": "Rajji’s Special",
+    "desc": "Fizz and flavor, all in one glass.",
+    "price": "198",
+    "image": "carousel6.jpg",
+    "category": "beverages"
+  },
+ 
+  
+  {
+    "id": 8,
+    "title": "Peach Punch",
+    "desc": "Crispy and fresh, a great light bite.",
+    "price": "106",
+    "image": "carousel8.jpg",
+    "category": "beverages"
+  },
+  
+  {
+    "id": 9,
+    "title": "Blueberry Blast",
+    "desc": "Tart and sweet explosion of flavor.",
+    "price": "133",
+    "image": "carousel9.jpg",
+    "category": "beverages"
+  },
+  
+  
+  {
+    "id": 10,
+    "title": "Veg Sandwich",
+    "desc": "Healthy and delicious snack option.",
+    "price": "231",
+    "image": "carousel10.jpg",
+    "category": "snacks"
+  },
+  
+  
+  {
+    "id": 11,
+    "title": "Mango Shake",
+    "desc": "Cool and strong, just how you like it.",
+    "price": "170",
+    "image": "carousel11.jpg",
+    "category": "beverages"
+  },
+  
+  {
+    "id": 12,
+    "title": "Green Apple Soda",
+    "desc": "A colorful mix of seasonal fruits.",
+    "price": "108",
+    "image": "carousel12.jpg",
+    "category": "beverages"
+  },
+  
+  {
+    "id": 13,
+    "title": "Pineapple Juice",
+    "desc": "Sweet and refreshing, perfect for summer.",
+    "price": "129",
+    "image": "carousel13.jpg",
+    "category": "beverages"
+  },
+  
+  {
+    "id": 14,
+    "title": "Tandoori Paneer",
+    "desc": "Tart and sweet explosion of flavor.",
+    "price": "986",
+    "image": "carousel14.jpg",
+    "category": "snacks"
+  },
+  
+  {
+    "id": 15,
+    "title": "Chocolate Milkshake",
+    "desc": "A creamy delight topped with fresh fruit.",
+    "price": "155",
+    "image": "carousel15.jpg",
+    "category": "shakes"
+  },
+  
+  {
+    "id": 16,
+    "title": "Mint Lemonade",
+    "desc": "Fizz and flavor, all in one glass.",
+    "price": "178",
+    "image": "carousel16.jpg",
+    "category": "beverages"
+  },
+  
+  {
+    "id": 17,
+    "title": "Coconut Water",
+    "desc": "Grilled to perfection with a smoky aroma.",
+    "price": "100",
+    "image": "carousel17.jpg",
+    "category": "beverages"
+  },
+  
+  {
+    "id": 18,
+    "title": "Fruit Smoothie",
+    "desc": "Crispy and fresh, a great light bite.",
+    "price": "145",
+    "image": "carousel18.jpg",
+    "category": "beverages"
+  },
+
+
+  {
+    "id": 19,
+    "title": "Spicy Tomato Soup",
+    "desc": "A colorful mix of seasonal fruits.",
+    "price": "145",
+    "image": "carousel19.jpg",
+    "category": "soups"
+  },
+  
+  {
+    "id": 20,
+    "title": "Veggie Wrap",
+    "desc": "Healthy and delicious snack option.",
+    "price": "220",
+    "image": "carousel21.jpg",
+    "category": "snacks"
+  },
+  
+  {
+    "id": 21,
+    "title": "Choco Banana Shake",
+    "desc": "A creamy delight topped with fresh fruit.",
+    "price": "165",
+    "image": "carousel22.jpg",
+    "category": "shakes"
+  },
+  {
+    "id":22,
+    "title": "North Indian Thali",
+    "desc": "A wholesome meal with a variety of dishes.",
+    "price": "250",
+    "image": "carousel23.jpg",
+    "category": "thalis"
+  },
+  {
+    "id": 23,
+    "title": "South Indian Thali",
+    "desc": "A wholesome meal with a variety of dishes.",
+    "price": "250",
+    "image": "carousel24.jpg",
+    "category": "thalis"
+  },
+  {
+    "id": 24,
+    "title": "Paneer Tikka",
+    "desc": "Grilled to perfection with a smoky aroma.",
+    "price": "200",
+    "image": "carousel26.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 25,
+    "title": "Veg Biryani",
+    "desc": "A flavorful rice dish with mixed vegetables.",
+    "price": "220",
+    "image": "carousel27.jpg",
+    "category": "rice"
+  },
+  {
+    "id": 26,
+    "title": "Chole Bhature",
+    "desc": "A spicy chickpea curry served with fried bread.",
+    "price": "210",
+    "image": "carousel28.jpg",
+    "category": "curries"
+  },
+  {
+    "id": 27,
+    "title": "Paneer Butter Masala",
+    "desc": "A rich and creamy paneer dish.",
+    "price": "240",
+    "image": "carousel29.jpg",
+    "category": "curries"
+  },
+  {
+    "id": 28,
+    "title": "Dal Makhani",
+    "desc": "A slow-cooked lentil dish with butter.",
+    "price": "190",
+    "image": "carousel30.jpg",
+    "category": "curries"
+  },
+  {
+    "id": 29,
+    "title": "Veg Pulao",
+    "desc": "A fragrant rice dish with mixed vegetables.",
+    "price": "170",
+    "image": "carousel31.jpg",
+    "category": "rice"
+  },
+  {
+    "id": 30,
+    "title": "Aloo Gobi",
+    "desc": "A classic potato and cauliflower curry.",
+    "price": "150",
+    "image": "carousel32.jpg",
+    "category": "curries"
+  },
+  {
+    "id": 31,
+    "title": "Palak Paneer",
+    "desc": "A spinach and paneer curry.",
+    "price": "220",
+    "image": "carousel33.jpg",
+    "category": "curries"
+  },
+  {
+    "id": 32,
+    "title": "Veg Manchurian",
+    "desc": "Fried vegetable balls in a tangy sauce.",
+    "price": "190",
+    "image": "carousel34.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 33,
+    "title": "Veg Spring Rolls",
+    "desc": "Crispy rolls filled with mixed vegetables.",
+    "price": "150",
+    "image": "carousel35.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 34,
+    "title": "Veg Pakora",
+    "desc": "Fried vegetable fritters with spices.",
+    "price": "130",
+    "image": "carousel36.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 35,
+    "title": "Veg Noodles",
+    "desc": "Stir-fried noodles with mixed vegetables.",
+    "price": "170",
+    "image": "carousel37.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 36,
+    "title": "Veg Fried Rice",
+    "desc": "Fried rice with mixed vegetables.",
+    "price": "160",
+    "image": "carousel38.jpg",
+    "category": "rice"
+  },
+  {
+    "id": 37,
+    "title": "Veg Burger",
+    "desc": "A delicious burger with a vegetable patty.",
+    "price": "150",
+    "image": "carousel39.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 38,
+    "title": "Veg Pizza",
+    "desc": "A classic pizza topped with fresh vegetables.",
+    "price": "220",
+    "image": "carousel40.jpg",
+    "category": "pizzas"
+  },
+  {
+    "id": 39,
+    "title": "Veg Pasta",
+    "desc": "Pasta in a creamy tomato sauce with vegetables.",
+    "price": "190",
+    "image": "carousel41.jpg",
+    "category": "pasta"
+  },
+  {
+    "id": 40,
+    "title": "Veg Salad",
+    "desc": "A fresh salad with seasonal vegetables.",
+    "price": "120",
+    "image": "carousel42.jpg",
+    "category": "salads"
+  },
+  {
+    "id": 41,
+    "title": "Veg Soup",
+    "desc": "A warm and comforting vegetable soup.",
+    "price": "100",
+    "image": "carousel43.jpg",
+    "category": "soups"
+  },
+  {
+    "id": 42,
+    "title": "Veg Curry",
+    "desc": "A flavorful vegetable curry.",
+    "price": "150",
+    "image": "carousel44.jpg",
+    "category": "curries"
+  },
+  {
+    "id": 43,
+    "title": "Veg Thali",
+    "desc": "A complete meal with a variety of dishes.",
+    "price": "240",
+    "image": "carousel45.jpg",
+    "category": "thalis"
+  },
+  {
+    "id": 44,
+    "title": "Veg Wrap",
+    "desc": "A wrap filled with mixed vegetables.",
+    "price": "170",
+    "image": "carousel46.jpg",
+    "category": "wraps"
+  },
+  {
+    "id": 45,
+    "title": "Veg Sandwich",
+    "desc": "A sandwich filled with fresh vegetables.",
+    "price": "150",
+    "image": "carousel47.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 46,
+    "title": "Veg Roll",
+    "desc": "A roll filled with mixed vegetables.",
+    "price": "140",
+    "image": "carousel48.jpg",
+    "category": "wraps"
+  },
+  {
+    "id": 47,
+    "title": "Veg Kathi Roll",
+    "desc": "A roll filled with spiced vegetables.",
+    "category": "wraps",
+    "price": "160",
+    "image": "carousel49.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Veg Samosa",
+    "desc": "A crispy pastry filled with spiced potatoes.",
+    "price": "120",
+    "image": "carousel50.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 49,
+    "title": "Veg Dhokla",
+    "desc": "A steamed savory cake made from gram flour.",
+    "price": "100",
+    "image": "carousel51.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 50,
+    "title": "Veg Idli",
+    "desc": "Steamed rice cakes served with chutney.",
+    "price": "100",
+    "image": "carousel52.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 51,
+    "title": "Veg Upma",
+    "desc": "A savory semolina dish with vegetables.",
+    "price": "100",
+    "image": "carousel53.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 52,
+    "title": "Veg Poha",
+    "desc": "Flattened rice cooked with spices and vegetables.",
+    "price": "100",
+    "image": "carousel54.jpg",
+    "category": "snacks"
+  },
+  {
+    "id":53,
+    "title": "gulab jamun",
+    "desc": "A popular Indian dessert made of milk solids.",
+    "price": "100",
+    "image": "carousel55.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 54,
+    "title": "Ras Malai",
+    "desc": "A creamy dessert made of paneer in sweetened milk.",
+    "price": "100",
+    "image": "carousel56.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 55,
+    "title": "Jalebi",
+    "desc": "A sweet made from deep-fried batter soaked in syrup.",
+    "price": "100",
+    "image": "carousel57.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 56,
+    "title": "Kheer",
+    "desc": "A rice pudding made with milk and sugar.",
+    "price": "100",
+    "image": "carousel58.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 57,
+    "title": "Gajar Ka Halwa",
+    "desc": "A sweet dish made from grated carrots and milk.",
+    "price": "100",
+    "image": "carousel59.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 58,
+    "title": "Barfi",
+    "desc": "A sweet made from condensed milk and sugar.",
+    "price": "100",
+    "image": "carousel60.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 59,
+    "title": "Ladoo",
+    "desc": "A sweet made from flour and sugar.",
+    "price": "100",
+    "image": "carousel61.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 60,
+    "title": "Peda",
+    "desc": "A sweet made from condensed milk and sugar.",
+    "price": "100",
+    "image": "carousel62.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 61,
+    "title": "Chikki",
+    "desc": "A sweet made from jaggery and nuts.",
+    "price": "100",
+    "image": "carousel63.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 62,
+    "title": "Puran Poli",
+    "desc": "A sweet flatbread stuffed with lentils and jaggery.",
+    "price": "100",
+    "image": "carousel64.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 63,
+    "title": "Kaju Katli",
+    "desc": "A sweet made from cashew nuts and sugar.",
+    "price": "100",
+    "image": "carousel65.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 64,
+    "title": "Chum Chum",
+    "desc": "A sweet made from paneer and sugar.",
+    "price": "100",
+    "image": "carousel66.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 65,
+    "title": "Saundesh",
+    "desc": "A Bengali sweet made from fresh paneer.",
+    "price": "100",
+    "image": "carousel67.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 66,
+    "title": "Mishti Doi",
+    "desc": "A Bengali sweet made from yogurt and sugar.",
+    "price": "100",
+    "image": "carousel68.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 67,
+    "title": "Rabri",
+    "desc": "A North Indian sweet made from condensed milk.",
+    "price": "100",
+    "image": "carousel69.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 68,
+    "title": "Sooji Halwa",
+    "desc": "A sweet made from semolina and sugar.",
+    "price": "100",
+    "image": "carousel70.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 69,
+    "title": "Doodh Peda",
+    "desc": "A sweet made from milk and sugar.",
+    "price": "100",
+    "image": "carousel71.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 70,
+    "title": "Kesar Pista Kulfi",
+    "desc": "A frozen dessert made with saffron and pistachios.",
+    "price": "100",
+    "image": "carousel72.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 71,
+    "title": "Chocolate Mousse",
+    "desc": "A rich and creamy chocolate dessert.",
+    "price": "100",
+    "image": "carousel73.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 72,
+    "title": "Fruit Custard",
+    "desc": "A sweet dish made with fruits and custard.",
+    "price": "100",
+    "image": "carousel74.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 73,
+    "title": "Ice Cream Sundae",
+    "desc": "A classic dessert with ice cream and toppings.",
+    "price": "100",
+    "image": "carousel75.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 74,
+    "title": "Brownie with Ice Cream",
+    "desc": "A warm brownie served with ice cream.",
+    "price": "100",
+    "image": "carousel76.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 75,
+    "title": "Tiramisu",
+    "desc": "An Italian coffee-flavored dessert.",
+    "price": "100",
+    "image": "carousel77.jpg",
+    "category": "desserts"
+  },
+  {
+    "id": 76,
+    "title": "Cheesecake",
+    "desc": "A creamy dessert made with cheese and sugar.",
+    "price": "100",
+    "image": "carousel78.jpg",
+    "category": "desserts"
+  },
+  {
+    "id":77,
+    "title": "mocktail",
+    "desc": "A refreshing non-alcoholic beverage.",
+    "price": "100",
+    "image": "carousel79.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 78,
+    "title": "Mojito",
+    "desc": "A refreshing minty drink.",
+    "price": "100",
+    "image": "carousel80.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 79,
+    "title": "Virgin Mojito",
+    "desc": "A minty and refreshing drink.",
+    "price": "100",
+    "image": "carousel81.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 80,
+    "title": "Shirley Temple",
+    "desc": "A sweet and fizzy drink.",
+    "price": "100",
+    "image": "carousel82.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 81,
+    "title": "Virgin Mary",
+    "desc": "A non-alcoholic version of the Bloody Mary.",
+    "price": "100",
+    "image": "carousel83.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 82,
+    "title": "Pina Colada",
+    "desc": "A tropical drink made with pineapple and coconut.",
+    "price": "100",
+    "image": "carousel84.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 83,
+    "title": "Blue Lagoon",
+    "desc": "A vibrant blue drink with a citrus flavor.",
+    "price": "100",
+    "image": "carousel85.jpg",
+    "category": "drinks"
+    
+  },
+  {
+    "id": 84,
+    "title": "Fruit Punch",
+    "desc": "A mix of various fruit juices.",
+    "price": "100",
+    "image": "carousel86.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 85,
+    "title": "Lemonade",
+    "desc": "A classic refreshing drink made with lemons.",
+    "price": "100",
+    "image": "carousel87.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 86,
+    "title": "Iced Tea",
+    "desc": "A chilled tea beverage with a hint of lemon.",
+    "price": "100",
+    "image": "carousel88.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 87,
+    "title": "aloo chaat",
+    "desc": "A tangy and spicy potato salad.",
+    "price": "100",
+    "image": "carousel89.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 88,
+    "title": "veg Tikka",
+    "desc": "Grilled vegetables marinated in spices.",
+    "price": "100",
+    "image": "carousel90.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 89,
+    "title": "kurkure momos",
+    "desc": "Crispy fried dumplings.",
+    "price": "100",
+    "image": "carousel91.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 90,
+    "title": "Onion Rings",
+    "desc": "Crispy fried onion rings.",
+    "price": "100",
+    "image": "carousel92.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 91,
+    "title": "Paneer Pakora",
+    "desc": "Fried paneer fritters with spices.",
+    "price": "100",
+    "image": "carousel93.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 92,
+    "title": "Veg momos",
+    "desc": "Steamed dumplings filled with vegetables.",
+    "price": "100",
+    "image": "carousel94.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 93,
+    "title": "Veg corn momos",
+    "desc": "Steamed dumplings filled with corn and spices.",
+    "price": "100",
+    "image": "carousel95.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 94,
+    "title": "Veg kabab",
+    "desc": "Grilled vegetables skewered and cooked to perfection.",
+    "price": "100",
+    "image": "carousel96.jpg",
+    "category": "snacks"
+  },
+
+  {
+    "id": 95,
+    "title": "Veg Biryani",
+    "desc": "A flavorful rice dish with mixed vegetables.",
+    "price": "100",
+    "image": "carousel97.jpg",
+    "category": "main course"
+  },
+  {
+    "id": 96,
+    "title": "Paneer Tikka",
+    "desc": "Grilled paneer marinated in spices.",
+    "price": "100",
+    "image": "carousel98.jpg",
+    "category": "main course"
+  },
+  {
+    "id": 97,
+    "title": "Veg Korma",
+    "desc": "A rich and creamy vegetable curry.",
+    "price": "100",
+    "image": "carousel99.jpg",
+    "category": "main course"
+  },
+  {
+    "id": 98,
+    "title": "Veg Rajma",
+    "desc": "A flavorful kidney bean curry.",
+    "price": "100",
+    "image": "carousel100.jpg",
+    "category": "main course"
+  },
+  
+  {"id": 99,
+    "title": "tandoori roti",
+    "desc": "Leavened bread cooked in a clay oven.",
+    "price": "100",
+    "image": "carousel101.jpg",
+    "category": "breads"
+  },
+  {"id": 100,
+    "title": "Naan",
+    "desc": "Soft and fluffy Indian bread.",
+    "price": "100",
+    "image": "carousel102.jpg",
+    "category": "breads"
+  },
+  {"id": 101,
+    "title": "Garlic Naan",
+    "desc": "Naan bread topped with garlic.",
+    "price": "100",
+    "image": "carousel103.jpg",
+    "category": "breads"
+  },
+  {"id": 102,
+    "title": "Butter Naan",
+    "desc": "Naan bread brushed with butter.",
+    "price": "100",
+    "image": "carousel104.jpg",
+    "category": "breads"
+  },
+  {"id": 103,
+    "title": "Raita",
+    "desc": "A yogurt-based side dish.",
+    "price": "100",
+    "image": "carousel105.jpg",
+    "category": "breads"
+  },
+  {"id": 104,
+    "title": "Salad",
+    "desc": "A fresh salad with seasonal vegetables.",
+    "price": "100",
+    "image": "carousel106.jpg",
+    "category": "salads"
+  },
+  {"id": 105,
+    "title": "Pickle",
+    "desc": "A spicy and tangy condiment.",
+    "price": "100",
+    "image": "carousel107.jpg",
+    "category": "salads"
+  },
+  {"id": 106,
+    "title":"Dessert",
+    	"desc":"A sweet treat to end your meal.",
+    	"price":"100",
+    	"image":"carousel108.jpg",
+    	"category": "desserts"
+   },
+  {"id": 107,
+    "title": "Beverage",
+    "desc": "A refreshing drink to accompany your meal.",
+    "price": "100",
+    "image": "carousel109.jpg",
+    "category": "drinks"
+  },
+  {"id": 108,
+    "title": "Veg Thali",
+    "desc": "A complete meal with a variety of dishes.",
+    "price": "100",
+    "image": "carousel110.jpg",
+    "category": "main course"
+  }
+]
