@@ -1,0 +1,66 @@
+/* Navigate.css */
+.navbar-container {
+  background: rgba(189, 50, 217, 0.2);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-container ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-container li {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.navbar-container a {
+  text-decoration: none;
+  color: #2aadd4;
+  transition: all 0.3s ease;
+}
+
+.navbar-container a:hover {
+  color: #ffdd57;
+  transform: scale(1.1);
+}
+
+select {
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+.cart-container {
+  position: relative;
+  cursor: pointer;
+}
+
+.cart-icon {
+  font-size: 22px;
+}
+
+.cart-badge {
+  position: absolute;
+  top: -5px;
+  right: -10px;
+  background: #ff4757;
+  color: #6441b5;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 50%;
+  padding: 2px 6px;
+}

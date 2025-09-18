@@ -1,0 +1,127 @@
+/* Contact Section */
+.contact-section {
+  margin: 80px auto;
+  max-width: 1100px;
+  padding: 40px 25px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #fffdf9, #fff8f0);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.contact-title {
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: #d35400;
+  margin-bottom: 30px;
+}
+
+/* Wrapper - Flexbox */
+.contact-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+/* Contact Info (Left side) */
+.contact-info {
+  flex: 1 1 300px;
+  text-align: left;
+  padding: 20px;
+}
+
+.contact-info h3 {
+  font-size: 1.6rem;
+  margin-bottom: 15px;
+  color: #d35400;
+}
+
+.contact-info p {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.contact-icon {
+  color: #d35400;
+}
+
+/* Contact Form (Right side) */
+.contact-form {
+  flex: 1 1 400px;
+  background: #fff;
+  border-radius: 15px;
+  padding: 25px 20px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
+.input-box {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-icon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  color: #d35400;
+}
+
+.input-box input,
+.input-box textarea {
+  width: 100%;
+  padding: 12px 12px 12px 40px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  outline: none;
+  transition: border 0.3s ease;
+}
+
+.input-box textarea {
+  padding-left: 15px;
+}
+
+.input-box input:focus,
+.input-box textarea:focus {
+  border: 1px solid #d35400;
+}
+
+/* Button */
+.contact-btn {
+  background: #d35400;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 25px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.contact-btn:hover {
+  background: #e67e22;
+  transform: scale(1.05);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .contact-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+  .contact-info {
+    text-align: center;
+  }
+}
